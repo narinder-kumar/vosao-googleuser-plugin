@@ -1,0 +1,12 @@
+<vosao-plugin>
+    <name>googleuserdetails</name>
+    <title>$googleuserdetails.title</title>
+    <version>1.0</version>
+    <description>$googleuserdetails.description</description>
+    <website>www.inphina.com</website>
+    <config>
+    </config>
+    <entry-point-class>
+      com.inphina.vosao.plugins.googleuserdetails.GoogleUserDetailsEntryPoint
+    </entry-point-class>
+</vosao-plugin>
